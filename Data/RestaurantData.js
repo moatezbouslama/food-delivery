@@ -6,7 +6,7 @@ const expensive = 3
 export const restaurantData = [
     {
         id: 1,
-        name: "Malek's Burger",
+        name: "moatez's Burger",
         rating: 4.2,
         categories: [5, 7],
         priceRating: affordable,
@@ -49,7 +49,7 @@ export const restaurantData = [
     },
     {
         id: 2,
-        name: "Malek's Pizza",
+        name: "moatez's Pizza",
         rating: 4.8,
         categories: [ 6],
         priceRating: expensive,
@@ -100,7 +100,7 @@ export const restaurantData = [
     },
     {
         id: 3,
-        name: "Malek's Hotdogs",
+        name: "moatez's Hotdogs",
         rating: 4.8,
         categories: [3, 4],
         priceRating: expensive,
@@ -127,7 +127,7 @@ export const restaurantData = [
     },
     {
         id: 4,
-        name: "Malek's Sushi",
+        name: "moatez's Sushi",
         rating: 4.8,
         categories: [8],
         priceRating: expensive,
@@ -154,7 +154,7 @@ export const restaurantData = [
     },
     {
         id: 5,
-        name: "Malek's Cuisine",
+        name: "moatez's Cuisine",
         rating: 4.8,
         categories: [1, 2],
         priceRating: affordable,
@@ -207,7 +207,7 @@ export const restaurantData = [
     {
 
         id: 6,
-        name: "Malek's Dessets",
+        name: "moatez's Dessets",
         rating: 4.9,
         categories: [9, 10],
         priceRating: affordable,
