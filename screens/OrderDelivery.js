@@ -5,7 +5,7 @@ import {COLORS, FONTS, icons, SIZES, GOOGLE_API_KEY} from "../constants"
 
 const OrderDelivery = () => {
 
-    const [restaurant, setrestaurant] = useState(initialState)
+    
 
     const mapfood = () =>{
         return(
